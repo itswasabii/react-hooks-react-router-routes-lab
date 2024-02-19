@@ -1,4 +1,4 @@
-// Actors.js
+
 import React from 'react';
 import { actors as actorsData } from '../data'; 
 

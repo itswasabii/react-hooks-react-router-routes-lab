@@ -1,4 +1,4 @@
-// Directors.js
+
 import React from 'react';
 import { directors as directorsData } from '../data'; 
 

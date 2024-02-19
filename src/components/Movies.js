@@ -1,4 +1,4 @@
-// Movies.js
+
 import React from 'react';
 import { movies as moviesData } from '../data'; 
 
